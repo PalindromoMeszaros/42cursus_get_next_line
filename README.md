@@ -1,4 +1,4 @@
-# get_next_line
+# 42Madrid School get_next_line project
 ### Mandatory: Score 100/100
 ### Bonus: Score 15/15
 ***
