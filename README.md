@@ -3,7 +3,7 @@
 ### Bonus: Score 15/15
 ***
 ### Challenge
-**Subject** *We must create a function that returns a line reas from a file descriptor followed by a newline*
+**Subject** *We must create a function that returns a line read from a file descriptor followed by a newline*
   
 - If we call again the function , it should return the next line of the file descriptor -the project is oriented towards learning the concept of static variables-
 
